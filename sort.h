@@ -26,4 +26,5 @@ void swap(int *num1, int *num2);
 int lomuto_partition(int *array, int low, int high, size_t size);
 void quicksort(int *array, int low, int high, size_t size);
 void quick_sort(int *array, size_t size);
+void shell_sort(int *array, size_t size);
 #endif
